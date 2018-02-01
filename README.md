@@ -1,3 +1,3 @@
 # Miscellaneous
-1. *chromeBash.sh* : Installing chrome on kali can be a real pain sometimes, or it's just too difficult for some. I have, therefore, created a script that will directly install it without any hassles, hopefully. Link of the original post is provided in the script.  
+1. *google-chrome-installer* : Installing chrome on kali can be a real pain sometimes, or it's just too difficult for some. I have, therefore, created a script that will directly install it without any hassles, hopefully. Link of the original post is provided in the script.  
 2. *dynamicLink.sh* : A simple demonstration of dynamically linking a library in C, without using -l command.  
